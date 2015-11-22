@@ -5,12 +5,16 @@ Course Tasks
 
 This course will be separated into 6 different tasks that cover the range of activities encountered by a practicing data scientist. They mirror many of the skills you have developed in the data science specialization. The tasks are:
 • Getting the data  Task 0
+
 • Exploratory analysis Task 1
+
 • Specifying the question / problem Task 2
+
 • Exploratory modeling  Task 3
+
 • Developing the final model / algorithm Task 4
+
 • Report writing and slide deck Task 5
-• Peer reviews Task 6
 
 [A shiny app is developed to predict star ratings based on a restaurant review](https://sony111.shinyapps.io/Predict_Review_Ratings) 
 
