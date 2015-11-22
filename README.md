@@ -4,6 +4,7 @@ The goal of this data science specialization has been to give you the basic skil
 Course Tasks
 
 This course will be separated into 6 different tasks that cover the range of activities encountered by a practicing data scientist. They mirror many of the skills you have developed in the data science specialization. The tasks are:
+
 • Getting the data  Task 0
 
 • Exploratory analysis Task 1
